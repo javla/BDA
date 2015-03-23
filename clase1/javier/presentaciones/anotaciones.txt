@@ -1,0 +1,1 @@
+Poner introduccion a modelo dimensional, decir que es una tabla de hechos, que son las tablas de dimensiones. Introducir el modelo estrella, dar caracteristicas. Introducir el modelo copo de nieve, dar caracteristicas. En las diapositivas no poner toda la definicion, sino solamente nombrarlas para luego explicarlas oralmente.
